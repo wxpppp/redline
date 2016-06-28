@@ -7,9 +7,9 @@
 		<version>9</version>
 	</parent>
 
-	<groupId>org.redline-rpm</groupId>
-	<artifactId>redline</artifactId>
-	<version>1.2.3-SNAPSHOT</version>
+	<groupId>com.teradata</groupId>
+	<artifactId>redline-td</artifactId>
+	<version>1.2.2.1</version>
 	<packaging>jar</packaging>
 	<name>Redline</name>
 	<description>Redline is a pure Java library for manipulating RPM Package Manager packages.</description>
